@@ -16,6 +16,7 @@ public class Test_scanner {
         sum = number1 +number2;
 
         System.out.printf("Sum is %d%n",sum);
+        input.close();
 
 
     }
